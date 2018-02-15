@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<params>
+  <param key="AlertMessageHost" value="smtp.wp.pl" type="System.String" />
+  <param key="AlertMessagePort" value="465" type="System.Int32" />
+  <param key="AlertMessageUsername" value="punciorz@wp.pl" type="System.String" />
+  <param key="AlertMessagePassword" value="79521358" type="System.String" />
+  <param key="AlertMessageTo" value="grzegorz.filusch@gmail.com" type="System.String" />
+</params>

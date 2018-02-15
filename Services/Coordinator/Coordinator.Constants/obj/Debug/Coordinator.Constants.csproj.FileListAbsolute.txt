@@ -1,0 +1,11 @@
+D:\WORKSPACE\CODE\Product\Services\Servers\Coordinator\Coordinator.Constants\bin\Debug\Coordinator.Constants.dll
+D:\WORKSPACE\CODE\Product\Services\Servers\Coordinator\Coordinator.Constants\bin\Debug\Coordinator.Constants.pdb
+D:\WORKSPACE\CODE\Product\Services\Servers\Coordinator\Coordinator.Constants\obj\Debug\Coordinator.Constants.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\CODE\Product\Services\Servers\Coordinator\Coordinator.Constants\obj\Debug\Coordinator.Constants.dll
+D:\WORKSPACE\CODE\Product\Services\Servers\Coordinator\Coordinator.Constants\obj\Debug\Coordinator.Constants.pdb
+C:\Workspace\Code\Services\Coordinator\Coordinator.Constants\bin\Debug\Coordinator.Constants.dll
+C:\Workspace\Code\Services\Coordinator\Coordinator.Constants\bin\Debug\Coordinator.Constants.pdb
+C:\Workspace\Code\Services\Coordinator\Coordinator.Constants\obj\Debug\Coordinator.Constants.csprojResolveAssemblyReference.cache
+C:\Workspace\Code\Services\Coordinator\Coordinator.Constants\obj\Debug\Coordinator.Constants.csproj.CoreCompileInputs.cache
+C:\Workspace\Code\Services\Coordinator\Coordinator.Constants\obj\Debug\Coordinator.Constants.dll
+C:\Workspace\Code\Services\Coordinator\Coordinator.Constants\obj\Debug\Coordinator.Constants.pdb
